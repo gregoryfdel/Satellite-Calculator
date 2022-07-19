@@ -75,8 +75,7 @@ recommended python version required to run these scripts.
 ### Formatting
 All scripts have been formatted with [black](https://github.com/psf/black).
 ### Packages
-This repository contains a `pipfile` which is used by the dependency management system [pipenv](https://pipenv.pypa.
-io/en/latest/). Otherwise, here is a list of the packages needed to run these scripts
+This repository contains a `pipfile` which is used by the dependency management system [pipenv](https://pipenv.pypa.io/en/latest/). Otherwise, here is a list of the packages needed to run these scripts
 * numpy
 * skyfield
 * pandas
