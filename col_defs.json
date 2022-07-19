@@ -1,0 +1,225 @@
+[
+  [
+    "Observatory Latitude",
+    "start",
+    "obs_lat_str"
+  ],
+  [
+    "Observatory Longitude",
+    "start",
+    "obs_long_str"
+  ],
+  [
+    "Satellite name",
+    "start",
+    "sat_name"
+  ],
+  [
+    "Rise/Set Altitude",
+    "threshold"
+  ],
+  [
+    "Duration between Rise and Set [minutes]",
+    "duration_minutes_str"
+  ],
+  [
+    "Local Timezone",
+    "start",
+    "local_tz"
+  ],
+  [
+    "Culmination Time (UTC)",
+    "culmination",
+    "utc_str"
+  ],
+  [
+    "Culmination Time (Local)",
+    "culmination",
+    "local_time_str"
+  ],
+  [
+    "Daytime at Culmination?",
+    "culmination",
+    "is_daytime_str"
+  ],
+  [
+    "Satellite Shadow Latitude (At Culmination)",
+    "culmination",
+    "sat_lat_str"
+  ],
+  [
+    "Satellite Shadow Longitude (At Culmination)",
+    "culmination",
+    "sat_long_str"
+  ],
+  [
+    "Approx. Distance Between Shadow and Observatory (km) (At Culmination)",
+    "culmination",
+    "sat_obs_distance_str"
+  ],
+  [
+    "Satellite RA (At Culmination)",
+    "culmination",
+    "sat_ra_str"
+  ],
+  [
+    "Satellite Dec (At Culmination)",
+    "culmination",
+    "sat_dec_str"
+  ],
+  [
+    "Satellite Altitude (At Culmination)",
+    "culmination",
+    "sat_alt_str"
+  ],
+  [
+    "Satellite Azimuth (At Culmination)",
+    "culmination",
+    "sat_az_str"
+  ],
+  [
+    "Is the Satellite Sunlit? (At Culmination)",
+    "culmination",
+    "is_sat_sunlit_str"
+  ],
+  [
+    "Moon Distance (At Culmination)",
+    "culmination",
+    "moon_distance_str"
+  ],
+  [
+    "Moon Fraction (At Culmination)",
+    "culmination",
+    "moon_fraction_str"
+  ],
+  [
+    "Rise Time (UTC)",
+    "start",
+    "utc_str"
+  ],
+  [
+    "Rise Time (Local)",
+    "start",
+    "local_time_str"
+  ],
+  [
+    "Daytime at Rise?",
+    "start",
+    "is_daytime_str"
+  ],
+  [
+    "Satellite Shadow Latitude (At Rise)",
+    "start",
+    "sat_lat_str"
+  ],
+  [
+    "Satellite Shadow Longitude (At Rise)",
+    "start",
+    "sat_long_str"
+  ],
+  [
+    "Approx. Distance Between Shadow and Observatory (km) (At Rise)",
+    "start",
+    "sat_obs_distance_str"
+  ],
+  [
+    "Satellite RA (At Rise)",
+    "start",
+    "sat_ra_str"
+  ],
+  [
+    "Satellite Dec (At Rise)",
+    "start",
+    "sat_dec_str"
+  ],
+  [
+    "Satellite Altitude (At Rise)",
+    "start",
+    "sat_alt_str"
+  ],
+  [
+    "Satellite Azimuth (At Rise)",
+    "start",
+    "sat_az_str"
+  ],
+  [
+    "Is the Satellite Sunlit? (At Rise)",
+    "start",
+    "is_sat_sunlit_str"
+  ],
+  [
+    "Moon Distance (At Rise)",
+    "start",
+    "moon_distance_str"
+  ],
+  [
+    "Moon Fraction (At Rise)",
+    "start",
+    "moon_fraction_str"
+  ],
+  [
+    "Set Time (UTC)",
+    "end",
+    "utc_str"
+  ],
+  [
+    "Set Time (Local)",
+    "end",
+    "local_time_str"
+  ],
+  [
+    "Daytime at Set?",
+    "end",
+    "is_daytime_str"
+  ],
+  [
+    "Satellite Shadow Latitude (At Set)",
+    "end",
+    "sat_lat_str"
+  ],
+  [
+    "Satellite Shadow Longitude (At Set)",
+    "end",
+    "sat_long_str"
+  ],
+  [
+    "Approx. Distance Between Shadow and Observatory (km) (At Set)",
+    "end",
+    "sat_obs_distance_str"
+  ],
+  [
+    "Satellite RA (At Set)",
+    "end",
+    "sat_ra_str"
+  ],
+  [
+    "Satellite Dec (At Set)",
+    "end",
+    "sat_dec_str"
+  ],
+  [
+    "Satellite Altitude (At Set)",
+    "end",
+    "sat_alt_str"
+  ],
+  [
+    "Satellite Azimuth (At Set)",
+    "end",
+    "sat_az_str"
+  ],
+  [
+    "Is the Satellite Sunlit? (At Set)",
+    "end",
+    "is_sat_sunlit_str"
+  ],
+  [
+    "Moon Distance (At Set)",
+    "end",
+    "moon_distance_str"
+  ],
+  [
+    "Moon Fraction (At Set)",
+    "end",
+    "moon_fraction_str"
+  ]
+]

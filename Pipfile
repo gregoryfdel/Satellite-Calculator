@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyyaml = "*"
+tqdm = "*"
+pytz = "*"
+numpy = "*"
+geopy = "*"
+skyfield = "*"
+tzlocal = "*"
+h5py = "*"
+cached-property = "*"
+pandas = "*"
+astropy = "*"

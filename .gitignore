@@ -1,0 +1,5 @@
+output/*
+skyfield_data/*
+**__pycache__**
+.idea/*
+.vs/*

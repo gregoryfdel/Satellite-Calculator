@@ -1,0 +1,7 @@
+# This contains the information about which observatories to observe
+# The elements are (<latitude in deg>, <longitude in deg>, <altitude in meters>)
+# with the element key being the name
+VERITAS:
+- 31.675
+- -110.9519
+- 1280.0
